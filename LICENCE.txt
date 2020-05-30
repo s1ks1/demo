@@ -7,3 +7,6 @@ New line
 Hello World what's up!
 
 This is edited in master branch.
+This is edited in other branch. 
+Some random text.
+Hello World!
